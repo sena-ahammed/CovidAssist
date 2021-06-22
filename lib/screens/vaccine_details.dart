@@ -269,15 +269,24 @@ Widget detailsCard(VaccineModel details) {
                   children: [
                     Text(
                       'Price: ',
-                      textScaleFactor: 1.4,
+                      textScaleFactor: 1.2,
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                     Text(
                       'Contact numbers: ',
-                      textScaleFactor: 1.4,
+                      textScaleFactor: 1.2,
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                     Text(
                       'View Location: ',
-                      textScaleFactor: 1.4,
+                      textScaleFactor: 1.2,
+                      style: TextStyle(
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ],
                 ),

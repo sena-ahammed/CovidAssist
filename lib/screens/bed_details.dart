@@ -111,7 +111,7 @@ class _BedsDetailPageState extends State<BedsDetailPage> {
         minHeight: 60.0,
         maxHeight: 80.0,
         child: Container(
-          padding: EdgeInsets.all(5.0),
+          padding: EdgeInsets.only(right: 5.0),
           color: Colors.grey,
           child: Row(
             // crossAxisAlignment: CrossAxisAlignment.end,
