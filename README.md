@@ -1,4 +1,4 @@
-# demo_ca
+# Covid Assist
 
 A new Flutter project.
 
